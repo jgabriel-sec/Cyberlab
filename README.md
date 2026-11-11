@@ -9,7 +9,7 @@
 **Autor:** José Gabriel Martins Batista  
 **Curso:** Análise e Desenvolvimento de Sistemas (ADS)  
 **Orientação Técnica:** Arquiteto de Cibersegurança & Especialista Sênior em Ethical Hacking  
-**LinkedIn:** [linkedin.com/in/josé-gabriel-martins-batista-19b6b344a/](https://www.linkedin.com/in/jos%C3%A9-gabriel-martins-batista-19b6b344a/)  
+**LinkedIn:** [linkedin.com/in/josé-gabriel-martins-batista-19b6b344a/](https://www.linkedin.com/in/josegabriel-sec/)  
 **GitHub:** [github.com/jgabriel-sec/Cyberlab](https://github.com/jgabriel-sec/Cyberlab)  
 
 ---
